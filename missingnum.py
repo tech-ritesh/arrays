@@ -18,3 +18,4 @@ for j in range(0,n+1):
         ans= j+1
 print(temp)
 print(ans)
+priint(uihd)
