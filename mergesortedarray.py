@@ -26,5 +26,6 @@ for i in range(m):
 print(c)
 print(arr1)
 print(arr2)
-print(arr3)
+print(aarr4)
+
 
